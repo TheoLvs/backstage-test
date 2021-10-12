@@ -4,9 +4,8 @@ metadata:
   name: modiface
   description: Modiface
   tags:
-    - Machine Learning
-    - Deep Learning
-    - Computer Vision
+    - machine-learning
+    - computer-vision
   links:
     - url: https://example.com/user
       title: Examples Users
