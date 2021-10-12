@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: beauty-tech
+  description: Everything related to Beauty Tech
+spec:
+  owner: user:theo.alves

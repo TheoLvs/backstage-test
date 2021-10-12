@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: consumer-loop
+  description: Consumer Loop project
+spec:
+  owner: team-a
+  domain: beauty-tech

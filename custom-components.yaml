@@ -5,5 +5,9 @@ metadata:
   description: Example Custom Components
 spec:
   targets:
-    - ./components/modiface.yaml
+    - ./components/modiface-computervision.yaml
+    - ./components/modiface-recommandation.yaml
     - ./components/consumer-loop.yaml
+    - ./systems/consumer-loop.yaml
+    - ./systems/modiface.yaml
+    - ./domains/beauty-tech.yaml

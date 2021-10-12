@@ -1,10 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: modiface
+  name: modiface-computervision
   description: Modiface
   tags:
     - machine-learning
+    - computer-vision
   links:
     - url: https://example.com/user
       title: Examples Users
@@ -31,5 +32,5 @@ spec:
   type: service
   lifecycle: production
   owner: team-a
-  system: artist-engagement-portal
-  dependsOn: ['resource:artists-db']
+  system: modiface
+  # dependsOn: ['resource:artists-db']
