@@ -6,3 +6,4 @@ metadata:
 spec:
   targets:
     - ./components/modiface.yaml
+    - ./components/consumer-loop.yaml

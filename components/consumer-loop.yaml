@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: modiface
-  description: Modiface
+  name: consumerloop
+  description: Consumer Loop
   tags:
     - machine-learning
   links:
