@@ -4,8 +4,7 @@ metadata:
   name: modiface
   description: Modiface
   tags:
-    - machine-learning
-    - computer-vision
+    - machine
   links:
     - url: https://example.com/user
       title: Examples Users
