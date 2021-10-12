@@ -10,4 +10,3 @@ spec:
     - ./components/consumer-loop.yaml
     - ./systems/consumer-loop.yaml
     - ./systems/modiface.yaml
-    - ./domains/beauty-tech.yaml
